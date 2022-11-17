@@ -3,6 +3,7 @@ extern crate stdweb;
 
 mod canvas;
 mod direction;
+mod snake;
 
 use canvas::Canvas;
 
