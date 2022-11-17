@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>PermanentRedirect</Code><Message>The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint.</Message><Endpoint>mozilla-games.s3.amazonaws.com</Endpoint><Bucket>mozilla-games</Bucket><RequestId>5W5T11A2PEVCY8B4</RequestId><HostId>W9/ZGv9U1Jhhfi7W2/czJBpTVpYIHMMnoUcWyWdc84aZTRp24SwGzN5qtxJkEe0rF4e3sVPRSWA=</HostId></Error>

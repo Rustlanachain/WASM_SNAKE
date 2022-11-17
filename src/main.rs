@@ -3,10 +3,12 @@ extern crate stdweb;
 
 mod canvas;
 mod direction;
- 
+
 use canvas::Canvas;
-fn main(){
+
+fn main() {
     stdweb::initialize();
+
     let canvas = Canvas::new("#canvas", 20, 20);
 
     canvas.draw(5, 5, "red");
